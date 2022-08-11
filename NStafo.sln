@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStafo.Console", "NStafo.Console\NStafo.Console.csproj", "{A47325F3-ACF7-4DC6-9354-679B6259850A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStafo.Lib", "NStafo.Lib\NStafo.Lib.csproj", "{5D3AC3D3-5737-4CBF-AD68-BCBE359D0368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47325F3-ACF7-4DC6-9354-679B6259850A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47325F3-ACF7-4DC6-9354-679B6259850A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47325F3-ACF7-4DC6-9354-679B6259850A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47325F3-ACF7-4DC6-9354-679B6259850A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3AC3D3-5737-4CBF-AD68-BCBE359D0368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3AC3D3-5737-4CBF-AD68-BCBE359D0368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3AC3D3-5737-4CBF-AD68-BCBE359D0368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3AC3D3-5737-4CBF-AD68-BCBE359D0368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
